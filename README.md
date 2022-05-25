@@ -1,5 +1,5 @@
-# ADL-AI-Summit : Pre-Hackathon
-#### Submission for Kaggle round of pre hackathon
+# Telecommunications Rental Predictor
+#### Submission for Kaggle round of pre hackathon- ADL-AI-Summit
 
 ##### Problem Statement :
 You have been given a dataset consisting of customer data of a mobile telecommunications company. Your goal will be to develop a model to predict the rental plan each customer will activate in the following month. A rental plan will be available for mobile customers as a monthly subscription, and it contains free usage quota in terms of data, voice and text messages.
